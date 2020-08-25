@@ -1,0 +1,22 @@
+{
+  "name": "@tridnguyen/slugify",
+  "version": "1.0.0",
+  "description": "personal wrapper around npmjs.com/slugify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tnguyen14/slugify.git"
+  },
+  "author": "Tri Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnguyen14/slugify/issues"
+  },
+  "homepage": "https://github.com/tnguyen14/slugify#readme",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  }
+}
