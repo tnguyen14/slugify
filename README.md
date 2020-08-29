@@ -4,6 +4,8 @@
 
 - Remove these characters `*+~.()'"!:@`
 - Lower case
+- Strictly strip special characters
+- Replace `/` with `-`
 
 ```js
 const slugify = require('@tridnguyen/slugify');
