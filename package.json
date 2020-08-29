@@ -1,6 +1,6 @@
 {
   "name": "@tridnguyen/slugify",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "personal wrapper around npmjs.com/slugify",
   "main": "index.js",
   "scripts": {
